@@ -1,0 +1,19 @@
+{
+  "name": "jk-colorselect",
+  "version": "1.0.0",
+  "description": "this is a module for mobile to select color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xindizhiyin2014",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "1.0.0"
+  },
+  "keywords": [
+    "colorselect",
+    "mobile"
+  ]
+}
