@@ -1,6 +1,6 @@
 {
   "name": "jk-colorselect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "this is a module for mobile to select color",
   "main": "index.js",
   "scripts": {

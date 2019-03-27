@@ -1,3 +1,3 @@
-exports.open = function () {
-	Window.location.href = './index.html'
+module.exports.open = function () {
+	window.location.href = './index.html'
 }
