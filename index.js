@@ -1,3 +1,3 @@
 exports.open = function () {
-	location.href = './index.html'
+	Window.location.href = './index.html'
 }
